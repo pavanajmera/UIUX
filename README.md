@@ -1,6 +1,6 @@
 # UIUX
 # Requirements:
-  *using Adobe Xd in Windows 10
+  * using Adobe Xd in Windows 10
   
 # Singin and Singup file in png:
 
